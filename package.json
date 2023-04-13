@@ -4,7 +4,8 @@
   "description": "",
   "main": "task1.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "keywords": [],
   "author": "",
